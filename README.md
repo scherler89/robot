@@ -93,7 +93,7 @@ npx cursor-mcp-installer@latest --config='{"serverUrl":"http://localhost:3000"}'
 Alternativ kannst du auch das Repository direkt verwenden:
 
 ```bash
-npx -y https://github.com/yourusername/cursor-mcp-server.git/setup-mcp.js --config='{"serverUrl":"http://localhost:3000"}'
+npx -y https://github.com/scherler89/robot/setup-mcp.js --config='{"serverUrl":"http://localhost:3000"}'
 ```
 
 Diese Befehle erledigen automatisch:

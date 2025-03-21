@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/cursor-mcp-server.git"
+    "url": "git+https://github.com/scherler89/robot.git"
   },
   "keywords": [
     "cursor",
@@ -23,8 +23,8 @@
   "author": "YourName",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourusername/cursor-mcp-server/issues"
+    "url": "https://github.com/scherler89/robot/issues"
   },
-  "homepage": "https://github.com/yourusername/cursor-mcp-server#readme",
+  "homepage": "https://github.com/scherler89/robot#readme",
   "dependencies": {}
 } 

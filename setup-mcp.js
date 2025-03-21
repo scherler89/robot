@@ -67,7 +67,7 @@ function cloneRepository() {
   }
   
   try {
-    execSync(`git clone https://github.com/yourusername/cursor-mcp-server.git "${tempDir}"`, { stdio: 'inherit' });
+    execSync(`git clone https://github.com/scherler89/robot.git "${tempDir}"`, { stdio: 'inherit' });
     return tempDir;
   } catch (error) {
     console.error('❌ Fehler beim Herunterladen des Repositories:', error.message);

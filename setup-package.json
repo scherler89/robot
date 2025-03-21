@@ -1,0 +1,30 @@
+{
+  "name": "cursor-mcp-installer",
+  "version": "0.1.0",
+  "description": "Installer für den Cursor MCP-Server und Plugin",
+  "main": "setup-mcp.js",
+  "bin": {
+    "cursor-mcp-setup": "./setup-mcp.js"
+  },
+  "scripts": {
+    "start": "node setup-mcp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/cursor-mcp-server.git"
+  },
+  "keywords": [
+    "cursor",
+    "mcp",
+    "agent",
+    "remote",
+    "control"
+  ],
+  "author": "YourName",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/cursor-mcp-server/issues"
+  },
+  "homepage": "https://github.com/yourusername/cursor-mcp-server#readme",
+  "dependencies": {}
+} 
